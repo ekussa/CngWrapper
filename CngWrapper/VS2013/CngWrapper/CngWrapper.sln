@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CngWrapper", "CngWrapper\CngWrapper.vcxproj", "{E4861711-B182-465E-8C46-7A842CA87C12}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample", "Sample\Sample.vcxproj", "{0E31B97E-7BD2-4137-A1E5-CF937FFAEDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4861711-B182-465E-8C46-7A842CA87C12}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4861711-B182-465E-8C46-7A842CA87C12}.Debug|Win32.Build.0 = Debug|Win32
+		{E4861711-B182-465E-8C46-7A842CA87C12}.Release|Win32.ActiveCfg = Release|Win32
+		{E4861711-B182-465E-8C46-7A842CA87C12}.Release|Win32.Build.0 = Release|Win32
+		{0E31B97E-7BD2-4137-A1E5-CF937FFAEDCD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E31B97E-7BD2-4137-A1E5-CF937FFAEDCD}.Debug|Win32.Build.0 = Debug|Win32
+		{0E31B97E-7BD2-4137-A1E5-CF937FFAEDCD}.Release|Win32.ActiveCfg = Release|Win32
+		{0E31B97E-7BD2-4137-A1E5-CF937FFAEDCD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
